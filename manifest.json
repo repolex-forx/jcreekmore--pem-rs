@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "jcreekmore",
+  "repo": "pem-rs",
+  "versions": [
+    {
+      "commit": "7d6157704805dcedf703229926938a71b1ddd0b1",
+      "parsed_at": "2026-11-22T05:06:50.963791+00:00",
+      "tag": "v3.0.6",
+      "filetree": "filetree/7d6157704805dcedf703229926938a71b1ddd0b1.nq.gz",
+      "blobs": [
+        "blob/7e16e1d7f8cd8161e9d33e3b923919f7d5cb5c7c.nq.gz",
+        "blob/139c48656ea3145c9d8b3f97dda172d3e92997be.nq.gz",
+        "blob/f62760291a6b716a7a48444e75758dfe313f507d.nq.gz",
+        "blob/78a5709a5fe107fe17b392b7f707f52c3589c572.nq.gz",
+        "blob/ca6bd9c9f0f003894f35f45c3e4116daebd92273.nq.gz",
+        "blob/8d7f438312d7a663a2142c5be8442b8428814582.nq.gz",
+        "blob/53134fde26b8edc00a0b9a23f7a89aa9474dbb5a.nq.gz",
+        "blob/80039326e64ed6a2c31a9dcb136a3ed7a8f251ca.nq.gz",
+        "blob/1571a5ee037996d1f9da93c0ce1e42f85651c903.nq.gz",
+        "blob/2372ee1cf5958254e1799d6a40139dba45d74463.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
