@@ -22,6 +22,58 @@
       ],
       "ast": [
         "aggregate/ast/7d6157704805dcedf703229926938a71b1ddd0b1/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/7d6157704805dcedf703229926938a71b1ddd0b1.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "base64",
+          "ecosystem": "CARGO",
+          "version": "0.22.0",
+          "githubOrg": "marshallpierce",
+          "githubRepo": "rust-base64",
+          "githubCommit": "5d70ba7576f9aafcbf02bd8acfcb9973411fb95f",
+          "githubTag": "v0.22.0",
+          "githubUrl": "https://github.com/marshallpierce/rust-base64",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde_core",
+          "ecosystem": "CARGO",
+          "version": "1",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "criterion",
+          "ecosystem": "CARGO",
+          "version": "0.3.0",
+          "githubOrg": "criterion-rs",
+          "githubRepo": "criterion.rs",
+          "githubCommit": "b75386da2ce7911655f879d1d4e1d89136c052af",
+          "githubTag": "0.3.0",
+          "githubUrl": "https://github.com/criterion-rs/criterion.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "proptest",
+          "ecosystem": "CARGO",
+          "version": "1",
+          "githubOrg": "proptest-rs",
+          "githubRepo": "proptest",
+          "githubUrl": "https://github.com/proptest-rs/proptest",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde_json",
+          "ecosystem": "CARGO",
+          "version": "1",
+          "githubOrg": "serde-rs",
+          "githubRepo": "json",
+          "githubUrl": "https://github.com/serde-rs/json",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
